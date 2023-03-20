@@ -3,8 +3,6 @@
   "values": [
     "divinerpg:divine_log",
     "divinerpg:stripped_divine_log",
-    "divinerpg:frozen_log",
-    "divinerpg:stripped_frozen_log",
     "divinerpg:eden_log",
     "divinerpg:stripped_eden_log",
     "divinerpg:wildwood_log",
