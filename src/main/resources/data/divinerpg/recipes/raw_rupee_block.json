@@ -3,7 +3,7 @@
   "category": "building",
   "key": {
     "#": {
-      "item": "minecraft:raw_rupee"
+      "item": "divinerpg:raw_rupee"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
     "###"
   ],
   "result": {
-    "item": "minecraft:raw_rupee_block"
+    "item": "divinerpg:raw_rupee_block"
   },
   "show_notification": true
 }
