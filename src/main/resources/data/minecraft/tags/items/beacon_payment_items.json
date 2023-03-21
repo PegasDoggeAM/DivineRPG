@@ -1,11 +1,27 @@
 {
   "replace": false,
   "values": [
+    "divinerpg:apalachia_chunk",
     "divinerpg:aquatic_ingot",
     "divinerpg:arlemite_ingot",
     "divinerpg:bloodgem",
+    "divinerpg:corrupted_stone",
+    "divinerpg:divine_stone",
+    "divinerpg:eden_chunk",
+    "divinerpg:ender_stone",
+    "divinerpg:hellstone_ingot",
+    "divinerpg:ice_stone",
+    "divinerpg:jungle_stone",
+    "divinerpg:molten_stone",
+    "divinerpg:mortum_chunk",
     "divinerpg:realmite_ingot",
     "divinerpg:rupee_ingot",
-    "divinerpg:torridite_ingot"
+    "divinerpg:shadow_bar",
+    "divinerpg:shadow_stone",
+    "divinerpg:skythern_chunk",
+    "divinerpg:soulfire_stone",
+    "divinerpg:terran_stone",
+    "divinerpg:torridite_ingot",
+    "divinerpg:wildwood_chunk"
   ]
 }
